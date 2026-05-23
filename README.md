@@ -18,7 +18,7 @@ Busco extrair valor de dados brutos e construir modelos preditivos para solucion
 
 ## 🛠️ Stack Tecnológica & Ferramentas
 
-* **Linguagens de Programação:** Python (Collections, Pandas, NumPy), SQL, C, C#, Prolog
+* **Linguagens de Programação:** Python (Collections, Pandas, SQL, C, C#)
 * **Áreas de Foco:** Data Science, Modelagem Preditiva, Inteligência Artificial, Estruturas de Dados e Algoritmos
 
 ---
